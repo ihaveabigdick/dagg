@@ -1,0 +1,234 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+MERGED from [com.android.support:design:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9070c512724a4bfc442c338e1f64516e/AndroidManifest.xml:17:1-24:12
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/67fb19776d9d5a9f5a7132e40ed21f15/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9f7d86cddbe3752a11c3ae5e09cf78d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5aaba51c184969f90ff77487cca6a20b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c81cda7acf6b11d731d82990c66caa94/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0e0a57a6db0df135aa906061496ad462/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/288f5310d7d6b5c0d9cffdefc4a562d4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/508b07a51fdb87fbf654fca962c02e21/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/51916fedd642b4ae1e95250961d15f3a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/22cfecad0eb6c181da1012d28aa134ec/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53fa3813a225ab2b2e07c1201513f5b8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7cf2fb0d04b552272e7a2b8a341b86a8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f9ce12b3b4f64503e0ec6ba8577062c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a307285f3d05e9bf5141fd04f7f3f404/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65e21eaecc90580d7770efbe8e4fce4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2612084d626fbce75dcc370a65357634/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d10c5fd38a6d06e027aeac5846fb2de7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f059c86c02a03c562858b56b1726b82a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12cac726193a239507cc437e5477a338/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c3a7ff8d577c12649bad6343425986d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9737d586b66afda8ddf451b10abd9a49/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fb23c5acb4721b0f85c240b80165b2e1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a78b8bf796cae163fc0fde08475d37fb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/478fc040a86babb64346c615ed80abb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/f2e4cc75fbbaa71fb568b0fd7c3b0129/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f42d3e1053c5a8096879c17005e296c9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c968a30f58e2a4d0c47adcace20bf3e9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14207fcd8a7dec0a46284d733422706a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e14fe8b2d32c5b49d68d777f785d99b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1f44c5c9652a6a8c47ebababf755b2e2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aaa9b7cbed227860e5613690619074ec/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5073e6bd2378ac9fc5747a54efc5e20f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c0aca2893b4b73e8c6f290bb68dbad0/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44ae52965df143d55bc018708be9d706/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+	package
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:1-43:12
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:5:5-34:19
+MERGED from [com.android.support:design:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9070c512724a4bfc442c338e1f64516e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9070c512724a4bfc442c338e1f64516e/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5aaba51c184969f90ff77487cca6a20b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5aaba51c184969f90ff77487cca6a20b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fb23c5acb4721b0f85c240b80165b2e1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fb23c5acb4721b0f85c240b80165b2e1/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:11:9-68
+activity#com.example.shen.hottohome.activity.MainActivity
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:12:9-19:20
+	android:screenOrientation
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:13:13-50
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:12:19-56
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:17:27-74
+activity#com.example.shen.hottohome.activity.ChooeseActivity
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:20:9-21:52
+	android:screenOrientation
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:21:13-50
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:20:19-59
+activity#com.example.shen.hottohome.activity.OrderActivity
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:22:9-23:52
+	android:screenOrientation
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:23:13-50
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:22:19-57
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:25:9-33:20
+	android:grantUriPermissions
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:29:13-47
+	android:authorities
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:27:13-88
+	android:exported
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:26:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:30:13-32:58
+	android:resource
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:32:17-55
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:31:17-67
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:36:5-81
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:36:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:37:5-80
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:37:22-77
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:38:5-81
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:38:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:39:5-79
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:39:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:40:5-67
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:40:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:42:5-65
+	android:name
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml:42:22-62
+uses-sdk
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9070c512724a4bfc442c338e1f64516e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/9070c512724a4bfc442c338e1f64516e/AndroidManifest.xml:20:5-44
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/67fb19776d9d5a9f5a7132e40ed21f15/AndroidManifest.xml:8:5-10:41
+MERGED from [com.theartofdev.edmodo:android-image-cropper:2.6.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/android-image-cropper-2.6.0.aar/67fb19776d9d5a9f5a7132e40ed21f15/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9f7d86cddbe3752a11c3ae5e09cf78d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/d9f7d86cddbe3752a11c3ae5e09cf78d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5aaba51c184969f90ff77487cca6a20b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/shen/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/5aaba51c184969f90ff77487cca6a20b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c81cda7acf6b11d731d82990c66caa94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-v4-28.0.0.aar/c81cda7acf6b11d731d82990c66caa94/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0e0a57a6db0df135aa906061496ad462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/0e0a57a6db0df135aa906061496ad462/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/288f5310d7d6b5c0d9cffdefc4a562d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/288f5310d7d6b5c0d9cffdefc4a562d4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/508b07a51fdb87fbf654fca962c02e21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/508b07a51fdb87fbf654fca962c02e21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/51916fedd642b4ae1e95250961d15f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/51916fedd642b4ae1e95250961d15f3a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/22cfecad0eb6c181da1012d28aa134ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/22cfecad0eb6c181da1012d28aa134ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53fa3813a225ab2b2e07c1201513f5b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/53fa3813a225ab2b2e07c1201513f5b8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7cf2fb0d04b552272e7a2b8a341b86a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/7cf2fb0d04b552272e7a2b8a341b86a8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f9ce12b3b4f64503e0ec6ba8577062c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0.aar/f9ce12b3b4f64503e0ec6ba8577062c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a307285f3d05e9bf5141fd04f7f3f404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a307285f3d05e9bf5141fd04f7f3f404/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65e21eaecc90580d7770efbe8e4fce4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/65e21eaecc90580d7770efbe8e4fce4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2612084d626fbce75dcc370a65357634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2612084d626fbce75dcc370a65357634/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d10c5fd38a6d06e027aeac5846fb2de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/d10c5fd38a6d06e027aeac5846fb2de7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f059c86c02a03c562858b56b1726b82a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/f059c86c02a03c562858b56b1726b82a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12cac726193a239507cc437e5477a338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/12cac726193a239507cc437e5477a338/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c3a7ff8d577c12649bad6343425986d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/9c3a7ff8d577c12649bad6343425986d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9737d586b66afda8ddf451b10abd9a49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9737d586b66afda8ddf451b10abd9a49/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/811826f0b44cecc7cb6e32e71dad5d0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fb23c5acb4721b0f85c240b80165b2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/fb23c5acb4721b0f85c240b80165b2e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a78b8bf796cae163fc0fde08475d37fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a78b8bf796cae163fc0fde08475d37fb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/478fc040a86babb64346c615ed80abb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/478fc040a86babb64346c615ed80abb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/f2e4cc75fbbaa71fb568b0fd7c3b0129/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.1.aar/f2e4cc75fbbaa71fb568b0fd7c3b0129/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f42d3e1053c5a8096879c17005e296c9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f42d3e1053c5a8096879c17005e296c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c968a30f58e2a4d0c47adcace20bf3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/c968a30f58e2a4d0c47adcace20bf3e9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14207fcd8a7dec0a46284d733422706a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/14207fcd8a7dec0a46284d733422706a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e14fe8b2d32c5b49d68d777f785d99b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/1e14fe8b2d32c5b49d68d777f785d99b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1f44c5c9652a6a8c47ebababf755b2e2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/1f44c5c9652a6a8c47ebababf755b2e2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aaa9b7cbed227860e5613690619074ec/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/shen/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/aaa9b7cbed227860e5613690619074ec/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5073e6bd2378ac9fc5747a54efc5e20f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5073e6bd2378ac9fc5747a54efc5e20f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c0aca2893b4b73e8c6f290bb68dbad0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/8c0aca2893b4b73e8c6f290bb68dbad0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44ae52965df143d55bc018708be9d706/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/shen/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/44ae52965df143d55bc018708be9d706/AndroidManifest.xml:20:5-44
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		ADDED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/shen/Downloads/PostMatching/app/src/main/AndroidManifest.xml
